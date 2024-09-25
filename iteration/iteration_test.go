@@ -2,6 +2,7 @@ package iteration
 
 import (
 	"fmt"
+	"strings"
 	"testing"
 )
 
@@ -10,25 +11,19 @@ func TestRepeat(t *testing.T) {
 		repeated := Repeat("a", 5)
 		expected := "aaaaa"
 
-		if repeated != expected {
-			t.Errorf("expected %q but got %q", expected, repeated)
-		}
+		assertCorrectMessage(t, expected, repeated)
 	})
 	t.Run("repeat 'a' 0 times", func(t *testing.T) {
 		repeated := Repeat("a", 0)
 		expected := ""
 
-		if repeated != expected {
-			t.Errorf("expected %q but got %q", expected, repeated)
-		}
+		assertCorrectMessage(t, expected, repeated)
 	})
 	t.Run("repeat 'a' -1 times", func(t *testing.T) {
 		repeated := Repeat("a", -1)
 		expected := ""
 
-		if repeated != expected {
-			t.Errorf("expected %q but got %q", expected, repeated)
-		}
+		assertCorrectMessage(t, expected, repeated)
 	})
 }
 
@@ -42,4 +37,11 @@ func ExampleRepeat() {
 	repeat := Repeat("a", 6)
 	fmt.Println(repeat)
 	// Output: aaaaaa
+}
+
+func assertCorrectMessage(t testing.TB, expected, repeated string) {
+	t.Helper()
+	if strings.Compare(expected, repeated) != 0 {
+		t.Errorf("expected %q but got %q", expected, repeated)
+	}
 }
