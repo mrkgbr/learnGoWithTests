@@ -19,7 +19,7 @@
 - [ ] Reflection
 - [ ] Sync
 - [ ] Context
-- [ ] Intro to propery based tests
+- [ ] Intro to propery based tests-
 - [ ] Maths
 - [ ] Reading files
 - [ ] Templating
