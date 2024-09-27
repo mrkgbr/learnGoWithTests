@@ -1,6 +1,8 @@
 package main
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestPerimeter(t *testing.T) {
 	rectangle := Rectangle{10.0, 10.0}
@@ -17,9 +19,9 @@ func TestArea(t *testing.T) {
 		shape Shape
 		want  float64
 	}{
-		{Rectangle{12.0, 6.0}, 72.0},
-		{Circle{10.0}, 314.1592653589793},
-		{Triangle{5.0, 10.0}, 25.0},
+		{shape: Rectangle{Width: 12.0, Height: 6.0}, want: 72.0},
+		{shape: Circle{Radius: 10.0}, want: 314.1592653589793},
+		{shape: Triangle{Base: 5.0, Height: 10.0}, want: 25.0},
 	}
 
 	for _, tt := range areaTests {
