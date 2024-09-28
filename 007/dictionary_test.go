@@ -18,7 +18,7 @@ func TestSearch(t *testing.T) {
 			t.Fatal("expected to get an error")
 		}
 
-		assertError(t, err, ErrorNotFound)
+		assertError(t, err, ErrNotFound)
 	})
 }
 
