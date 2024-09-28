@@ -11,7 +11,7 @@
 - [x] Arrays and slices
 - [x] Structs, methods & interfaces
 - [X] Pointers & errors
-- [ ] Maps
+- [x] Maps
 - [ ] Dependency Injection
 - [ ] Mocking
 - [ ] Concurrency
