@@ -14,7 +14,7 @@
 - [x] Maps
 - [x] Dependency Injection
 - [x] Mocking
-- [ ] Concurrency
+- [x] Concurrency
 - [ ] Select
 - [ ] Reflection
 - [ ] Sync
