@@ -1,6 +1,8 @@
 # [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests)
+
 [Background](https://quii.gitbook.io/learn-go-with-tests#background)
 [github](https://github.com/quii/learn-go-with-tests)
+
 ## My learning progress
 ### Go fundamentals
 - [x] [Install Go](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/install-go)
