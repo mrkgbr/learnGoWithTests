@@ -1,6 +1,6 @@
 # [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests)
 
-[Background](https://quii.gitbook.io/learn-go-with-tests#background)
+[Background](https://quii.gitbook.io/learn-go-with-tests#background)<br>
 [github](https://github.com/quii/learn-go-with-tests)
 
 ## My learning progress
