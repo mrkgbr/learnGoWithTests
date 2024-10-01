@@ -1,21 +1,20 @@
 # [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests)
-
 [Background](https://quii.gitbook.io/learn-go-with-tests#background)
 [github](https://github.com/quii/learn-go-with-tests)
 ## My learning progress
 ### Go fundamentals
-- [x] Install Go
-- [x] Hello, World
-- [x] Integers
-- [x] Iteration
-- [x] Arrays and slices
-- [x] Structs, methods & interfaces
-- [X] Pointers & errors
-- [x] Maps
-- [x] Dependency Injection
-- [x] Mocking
-- [x] Concurrency
-- [x] Select
+- [x] [Install Go](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/install-go)
+- [x] [Hello, World](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world)
+- [x] [Integers](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/integers)
+- [x] [Iteration](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/iteration)
+- [x] [Arrays and slices](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/arrays-and-slices)
+- [x] [Structs, methods & interfaces](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/structs-methods-and-interfaces)
+- [X] [Pointers & errors](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/pointers-and-errors)
+- [x] [Maps](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/maps)
+- [x] [Dependency Injection](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/dependency-injection)
+- [x] [Mocking](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking)
+- [x] [Concurrency](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/concurrency)
+- [x] [Select](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/select)
 - [ ] Reflection
 - [ ] Sync
 - [ ] Context
@@ -25,27 +24,3 @@
 - [ ] Templating
 - [ ] Generics
 - [ ] Revisiting arrays and slices with generics
-
-## Folder structure
-|Folder name|Lesson|
-|--|--|
-|001|Hello, World|
-|002|Integers|
-|003|Iteration|
-|004|Arrays and slices
-|005|Structs, methods & interfaces
-|006|Pointers & errors
-|007|Maps
-|008|Dependency Injection
-|009|Mocking
-|010|Concurrency
-|011|Select
-|012|Reflection
-|013|Sync
-|014|Context
-|015|Intro to property based tests
-|016|Maths
-|017|Reading files
-|018|Templating
-|019|Generics
-|020|Revisiting arrays and slices with generics
