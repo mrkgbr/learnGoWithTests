@@ -17,7 +17,7 @@
 - [x] [Mocking](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking)
 - [x] [Concurrency](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/concurrency)
 - [x] [Select](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/select)
-- [ ] Reflection
+- [x] [Reflection](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reflection)
 - [ ] Sync
 - [ ] Context
 - [ ] Intro to propery based tests-
