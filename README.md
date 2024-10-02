@@ -20,7 +20,7 @@
 - [x] [Reflection](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reflection)
 - [x] [Sync](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/sync)
 - [x] [Context](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/context)
-- [ ] Intro to propery based tests-
+- [x] [Intro to propery based tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/roman-numerals)
 - [ ] Maths
 - [ ] Reading files
 - [ ] Templating
