@@ -21,7 +21,7 @@
 - [x] [Sync](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/sync)
 - [x] [Context](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/context)
 - [x] [Intro to property based tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/roman-numerals)
-- [ ] Maths
+- [x] [Maths](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/math)
 - [ ] Reading files
 - [ ] Templating
 - [ ] Generics
